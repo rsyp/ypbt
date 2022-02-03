@@ -52,3 +52,4 @@
  | Math | 5Head | Send the result of the math that you have specified. | User 
  | Permit |  | Gives permissions for users to use some commands | Broadcaster
 | Pfp | | Send the profile picture you have and of other users | User
+| Pick | | Picks a single word from the provided list of words in a message. | User
