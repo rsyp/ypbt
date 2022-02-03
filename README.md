@@ -20,7 +20,7 @@
 |:-----------:|:-----------:|:------------:|:------:|
  | 8ball |  | This command will answer whatever yes/no question you have. Example: <prefix>8ball yes or no | User 
  | Accountage | accage | Check how long your account and other users' accounts have been created.  | User 
- | Anime | ranime | Send random anime names | Weebs 
+ | Anime | ranime | Send random anime names | User 
  | Badge | badgeinfo | Check the badge you have set in the chat and other users' badges. | User 
  | Botinfo | info  | Send bot info and how to add the bot to your channel | User 
  | Catfact |  | Send cat fact | User 
@@ -35,7 +35,7 @@
  | Dongers |  | Send random dongers | User 
  | Echo | say | This command can only be used by the owner and the people that I have put in place to use it. | Owner 
  | Emotes |  | Check the emotes of the channel if it is verified or affiliated and of other channels, it will also send the channel subscription link in case you want to subscribe. | User 
- | Fill |  | Repeats the message for a length of 465 | moderators and broadcaster 
+ | Fill |  | Repeats the message for a length of 465 | Moderators and Broadcaster 
  | Followage | fa | Check how long you have been following the channel and other channels.  | User 
  | Followers |  | Check how many followers the channel has and from other channels  | User 
  | Follows |  | Check how many channels it follows in total  | User 
