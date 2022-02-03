@@ -48,3 +48,4 @@
  | Join | joinmychat | Bot will successfully join your channel   | User
  | Joinchannel |  | The bot owner will attach the bot to a channel.  | Owner
  | Logs | | Send the link to the logs to the channel you specify (only ivr.fi logs). | User
+ | Math | 5Head | Send the result of the math that you have specified. | User
