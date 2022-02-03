@@ -55,3 +55,4 @@
  | Pick | | Picks a single word from the provided list of words in a message. | User
  | Ping | pang, peng, pong, pung, pyng, byng, | Check how long the bot has been running for  | User
  | Query | | Ask a question. Wolfram Alpha query | User
+ | Reddit | rm | Specify a subreddit and send random images from the subreddit you specified. | User
