@@ -45,11 +45,12 @@
  | Isaffiliate | affiliate | Check if you are an affiliate or another user. | User
  | Isbot | bot | Check if it is a bot. | User
  | Issatff | staff | Check if it is a staff | User
- | Join | joinmychat | Bot will successfully join your channel   | User
+ | Join |  | Bot will successfully join your channel   | User
  | Joinchannel |  | The bot owner will attach the bot to a channel.  | Owner
  | Logs | | Send the link to the logs to the channel you specify (only ivr.fi logs). | User
  | Massping | everyone, dinkdonk | pings everyone in the chat  | Broadcaster
  | Math | 5Head | Send the result of the math that you have specified. | User 
  | Permit |  | Gives permissions for users to use some commands | Broadcaster
-| Pfp | | Send the profile picture you have and of other users | User
-| Pick | | Picks a single word from the provided list of words in a message. | User
+ | Pfp | | Send the profile picture you have and of other users | User
+ | Pick | | Picks a single word from the provided list of words in a message. | User
+ | Ping | pang, peng, pong, pung, pyng, byng, | Check how long the bot has been running for  | User
