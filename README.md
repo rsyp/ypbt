@@ -45,4 +45,5 @@
  | Isaffiliate | affiliate | Check if you are an affiliate or another user. | User
  | Isbot | bot | Check if it is a bot. | User
  | Issatff | staff | Check if it is a staff | User
- 
+ | Join | joinmychat | Bot will successfully join your channel   | User
+
