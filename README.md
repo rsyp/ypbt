@@ -42,5 +42,7 @@
  | Funfact | | 	A random fact from a given language | User 
  | Game |  | Check the category/game of the channel and other channels | User
  | Google | g | Send the link to the search you have specified  | User
- | isaffiliate | affiliate | Check if you are an affiliate or another user. | User
+ | Isaffiliate | affiliate | Check if you are an affiliate or another user. | User
  | Isbot | bot | Check if it is a bot. | User
+ | Issatff | staff | Check if it is a staff | User
+ 
