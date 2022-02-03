@@ -57,3 +57,5 @@
  | Query | | Ask a question. Wolfram Alpha query | User
  | Reddit | rm | Specify a subreddit and send random images from the subreddit you specified. | User
  | Removesuggestion | deletesuggestion | delete the suggestion you have made | User
+ | Rpfp | | Send pfp randoms from the list of users, you can use user:true to see the name of the user. | User
+ | Setprefix | prefix | Change bot prefix  | User
