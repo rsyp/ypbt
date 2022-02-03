@@ -41,3 +41,4 @@
  | Follows |  | Check how many channels it follows in total  | User 
  | Funfact | | 	A random fact from a given language | User 
  | Game |  | Check the category/game of the channel and other channels | User
+ | Google | g | Send the link to the search you have specified  | User
