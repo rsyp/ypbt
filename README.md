@@ -5,11 +5,9 @@
   <img src="https://cdn.7tv.app/emote/60ae3eef259ac5a73e583b69/3x" />
    
 </p>
-## ypbt
+
  ypbt is a bot created by rsyf using the typescript library. 
  
-
-
 ## How to add the bot to your channel
 You can add the bot using the ~join command in the bot chat and it will join successfully.
 
