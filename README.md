@@ -14,8 +14,8 @@ You can add the bot using the ~join command in the bot chat and it will join suc
         
 ## Commands
         
-| Command  | Alias  | Description  | Permission |
-|:-----------:|:-----------:|:------------:|:------:|
+| Command  | Alias  | Description  | Permission |  Usage  |
+|:-----------:|:-----------:|:------------:|:------:|:------:|
  | 8ball |  | This command will answer whatever yes/no question you have. Example: <prefix>8ball yes or no | User 
  | Accountage | accage | Check how long your account and other users' accounts have been created.  | User 
  | Anime | ranime | Send random anime names | User 
